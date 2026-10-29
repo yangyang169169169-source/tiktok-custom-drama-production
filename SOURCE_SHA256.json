@@ -1,0 +1,15 @@
+{
+  "version": "2026-10-29 来源快照",
+  "files": {
+    "SKILL.md": "0bb97714cc94d4a1c0dede5fcfef88c98965d820d618aa11eb55a8d32aff4634",
+    "agents/openai.yaml": "5282709143cfce5f31b7453e9296ec255797e4a29d0492fa4becdd70d268a44c",
+    "references/人物选角与跨剧差异化.md": "485382a818dcd6ac610aa1920dbbc05b3d2bb0ae81c7ecf6a4642c38474b2173",
+    "references/内容安全与叙事边界.md": "de424716cee0c57d6f72f091b5a98cac096009046d318c8105727f2eb8f23b93",
+    "references/场景叙事美术与光影差异化.md": "2dc731edfaa1b7bb14d7e2c67fe3688b047fbd684d45b723f40dfcf015a35759",
+    "references/场景资产生成规则.md": "85544f2649d2ba5773654759607cd83fecd95f9453e3c577fa9af9c2a8b5e26a",
+    "references/步骤1校对与最小修订规则.md": "051352062a24dc9de7220feb295b3e00db7c8e83db102e9c2105628df1d6c991",
+    "references/角色资产生成规则.md": "60e7b9e42849b8f5c8eb83f2d18ccbd81fbeebda09b6eb21399f28a5d85026ce",
+    "references/资产规划与按需生成规则.md": "dad3b058522994d9d42c0227ecf536e9928e1c937feeafdecf2fc93264f63b1e",
+    "references/道具资产生成规则.md": "757a5bc5749dde30629fa1b26ea6216254ed83ec10b5bda1f81da0bf157ee9d0"
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "TikTok 定制剧制作"
+  short_description: "最小校对与资产制作，主要角色造型更有设计感，场景道具英文准确"
+  default_prompt: "使用 $tiktok-custom-drama-production 在步骤1—4的已授权范围内处理客户成稿，保留母本并最小校对，细化人物辨识度，现代女频言情及奇幻的主要角色造型按剧情做得更大胆、更高级且有审美感，保留前期低位的阶段差异，按需制作资产并准确呈现场景和道具所需英文。"
+
+policy:
+  allow_implicit_invocation: true
