@@ -1,0 +1,10 @@
+{
+  "library_root": "../../../人脸参考",
+  "index": "素材索引.json",
+  "clothing_library_root": "../../../服装参考",
+  "clothing_index": "素材索引.json",
+  "clothing_guide": "入库与选用.md",
+  "appearance_browse": "按外貌查找",
+  "scope": "公开版仅含规则；参考图片库不随包分发。相对路径按SKILL.md所在目录解析，安装时保留接收者已有本机配置。",
+  "updated": "2026-11-20"
+}

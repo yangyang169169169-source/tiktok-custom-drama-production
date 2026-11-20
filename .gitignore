@@ -1,2 +1,10 @@
 .DS_Store
 backups/
+__pycache__/
+*.pyc
+.env
+.env.*
+assets/
+人脸参考/
+服装参考/
+客户原稿/
