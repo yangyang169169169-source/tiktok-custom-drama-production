@@ -1,6 +1,6 @@
 # 短剧 Skill：客户成稿与资产
 
-发布版本：`v2026.11.21.1` · 2026-11-21 · 公开规则版。
+发布版本：`v2026.11.25.1` · 2026-11-25 · 公开规则版。
 
 客户正式稿最小校对及步骤1—4的角色、场景、道具规划与获授权生成。
 
@@ -8,18 +8,20 @@
 
 ## 本次人物标准
 
+- 新项目采用三栏四视图白底定妆板。两个全身只局部虚化面部，右上清晰正脸，右下清晰 45° 侧转近景。提示词、实际看图验收和锁脸交接同步采用这一格式。
+
 - 新增[女性服装穿搭备选参考](references/女性服装穿搭备选参考.md)：Serena／Blair、Rachel、《了不起的盖茨比》、《艾米丽在巴黎》、Gaby、Emma Roberts／Dakota Johnson、Camille Pidoux。均为非必选，角色与场合适合时再查图，不要求逐项搜索。
 - 皮肤默认白皙、细嫩、水润、无瑕；男女主与主要配角严格执行，前10集出镜人物逐项核对。
 - 女主、女反派及主要女性默认小巧柔V脸；成年主要女性按剧情与场合提高露肤度，以剪裁突出协调曲线。
 - 所有角色不露乳头、乳晕或透点，男女同样执行。
 - 男主、主要男配及主要男反派参考适配的顶级男模或男演员脸型骨相，避免太长、太方、太大，保持独立面孔。
-- 规则落实到每套完整提示词、首图和后续造型验收；仅交付常规定妆三联板，不生成独立 UpperBody 文件。
+- 规则落实到每套完整提示词、首图和后续造型验收；仅交付常规定妆板，不生成独立 UpperBody 文件。
 
 明确肤色、真实年龄、必要剧情特征及已确认身份按其依据保留。更新不自动返修历史资产。
 
 ## 下载和核验
 
-从[本次 Release](https://github.com/yangyang169169169-source/tiktok-custom-drama-production/releases/tag/v2026.11.21.1)下载 `tiktok-custom-drama-production-v2026.11.21.1.zip` 及其 `.sha256`。先核对 ZIP，再核对解压后的 `SOURCE_SHA256.json` 和 `FILES.sha256`。
+从[本次 Release](https://github.com/yangyang169169169-source/tiktok-custom-drama-production/releases/tag/v2026.11.25.1)下载 `tiktok-custom-drama-production-v2026.11.25.1.zip` 及其 `.sha256`。先核对 ZIP，再核对解压后的 `SOURCE_SHA256.json` 和 `FILES.sha256`。
 
 安装前备份旧版及接收者的定制配置，核对实际加载入口。默认新项目放 `.agents/skills/tiktok-custom-drama-production/`；已有权威维护目录或符号链接时沿用原入口。不要覆盖账号、其他 Skill、AGENTS.md 或项目。
 
