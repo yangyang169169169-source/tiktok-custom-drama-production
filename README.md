@@ -1,12 +1,16 @@
 # 短剧 Skill：客户成稿与资产
 
-发布版本：`v2026.11.25.1` · 2026-11-25 · 公开规则版。
+发布版本：`v2026.11.27.1` · 2026-11-27 · 公开规则版。
 
 客户正式稿最小校对及步骤1—4的角色、场景、道具规划与获授权生成。
 
 入口：[SKILL.md](SKILL.md)。完整同步步骤和可转发指令见[HANDOFF.md](HANDOFF.md)。
 
-## 本次人物标准
+## 本次更新
+
+人物定妆增加正脸颊颌验收。平视正脸比较嘴角高度及略低处的左右轮廓，发现无依据的单侧凸起时定位到具体一段做局部修正。首套验收通过后用作锁脸母版，后续换装继续核对该处。保留角色原有五官、骨相与有依据的自然差异。 详见[正脸颊颌验收与局部返修](references/人物肤质脸型与服装验收.md#8-正脸颊颌轮廓与局部返修)。
+
+## 定妆板与人物标准
 
 - 新项目采用三栏四视图白底定妆板。两个全身只局部虚化面部，右上清晰正脸，右下清晰 45° 侧转近景。提示词、实际看图验收和锁脸交接同步采用这一格式。
 
@@ -21,7 +25,7 @@
 
 ## 下载和核验
 
-从[本次 Release](https://github.com/yangyang169169169-source/tiktok-custom-drama-production/releases/tag/v2026.11.25.1)下载 `tiktok-custom-drama-production-v2026.11.25.1.zip` 及其 `.sha256`。先核对 ZIP，再核对解压后的 `SOURCE_SHA256.json` 和 `FILES.sha256`。
+从[本次 Release](https://github.com/yangyang169169169-source/tiktok-custom-drama-production/releases/tag/v2026.11.27.1)下载 `tiktok-custom-drama-production-v2026.11.27.1.zip` 及其 `.sha256`。先核对 ZIP，再核对解压后的 `SOURCE_SHA256.json` 和 `FILES.sha256`。
 
 安装前备份旧版及接收者的定制配置，核对实际加载入口。默认新项目放 `.agents/skills/tiktok-custom-drama-production/`；已有权威维护目录或符号链接时沿用原入口。不要覆盖账号、其他 Skill、AGENTS.md 或项目。
 
